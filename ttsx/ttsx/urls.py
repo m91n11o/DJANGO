@@ -20,3 +20,4 @@ urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
 ]
 # red改动
+# red改动2
